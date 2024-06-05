@@ -1,4 +1,4 @@
-# CS50-s-Introduction-to-Computer-Science
+# CS50-Introduction-to-Computer-Science
 
 Welcome to my project portfolio for CS50's Introduction to Computer Science. This repository contains all the projects I have completed as part of the course. Each project demonstrates different concepts and skills learned throughout the course.
 This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
